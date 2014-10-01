@@ -4,7 +4,7 @@ Yggdrasil
 Yggdrasil is a concept for an augmented reality game, intially to be set at [Burning Man](http://burningman.com). It is very much a work in progress, but some of the current concepts are:
 
 * Twelve factions where a player can have multiple pseudo-identities within each
-* Players control which of their network intersections are available to others
+* Players control which of their aliases and contacts are accessible to others
 * Points are bitcoin
 * At the end of a round, the points are pooled, divided into 13 parts, and everyone gets one with an additional for the leader
 * [Black Rock City](http://alexlod.com/wp-content/uploads/2011/09/brc.jpeg) is overlaid with [a map designating differential authority](http://dhappy.github.io/yggdrasil/)
