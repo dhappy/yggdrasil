@@ -24,7 +24,7 @@ The teams are named after aspects of Norse cosmology:
 * ᛠ ― Svartálfaheimr: Dwarves
 * ᛁ ― Niflheimr: Ice
 * ᛊ ― Múspellsheimr: Fire
-* ![Níðhöggr](http://dhappy.org/.../image/animal/squirrel/svg) ― Níðhöggr: Dragon who gnaws at Yggdrasil
+* ![Níðhöggr](http://dhappy.org/.../image/dragon/pair/svg) ― Níðhöggr: Dragon who gnaws at Yggdrasil
 * ![Ratatoskr](http://dhappy.org/.../image/animal/squirrel/svg) ― Ratatoskr: Squirrel who lives in Yggdrasil
 * ![Veðrfölnir](http://dhappy.org/.../image/animal/phoenix/svg) ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
 
