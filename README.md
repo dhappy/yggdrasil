@@ -8,7 +8,6 @@ Yggdrasil is a concept for an augmented reality game, intially to be set at [Bur
 * Points are bitcoin
 * At the end of a round, the points are pooled, divided into 13 parts, and everyone gets one with an additional for the leader
 * [Black Rock City](http://alexlod.com/wp-content/uploads/2011/09/brc.jpeg) is overlaid with [a map designating differential authority](http://dhappy.github.io/yggdrasil/)
-* One subgame will be infiltration of other factions
 * Modeling of the activities and participants to [optimize for satisfaction](http://hoenir.himinbi.org/2014/04/rationale-for-the-department-of-happiness/)
 
 ## Teams
@@ -36,3 +35,8 @@ Teams dynamics is still very conceptual. Each team having a Captain would produc
 2. ¿[Kesha](//twitter.com/KeshaRose)?
 3. ¿[Elon](//twitter.com/ElonMusk)?
 4.  
+
+## Subgames
+
+* Infiltration
+* Wagers
