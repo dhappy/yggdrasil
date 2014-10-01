@@ -24,15 +24,15 @@ The teams are named after aspects of Norse cosmology:
 * ᛠ ― Svartálfaheimr: Dwarves
 * ᛁ ― Niflheimr: Ice
 * ᛊ ― Múspellsheimr: Fire
-* ![Níðhöggr](http://dhappy.org/.../image/animal/squirrel/svg.svg) ― Níðhöggr: Dragon who gnaws at Yggdrasil
-* ![Ratatoskr](http://dhappy.org/.../image/animal/squirrel/svg.svg) ― Ratatoskr: Squirrel who lives in Yggdrasil
-* ![Veðrfölnir](http://dhappy.org/.../image/animal/phoenix/svg.svg) ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
+* ![Níðhöggr](http://dhappy.org/.../image/animal/squirrel/svg) ― Níðhöggr: Dragon who gnaws at Yggdrasil
+* ![Ratatoskr](http://dhappy.org/.../image/animal/squirrel/svg) ― Ratatoskr: Squirrel who lives in Yggdrasil
+* ![Veðrfölnir](http://dhappy.org/.../image/animal/phoenix/svg) ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
 
 ## Captains
 
 Teams dynamics is still very conceptual. I currently like the idea of each team having a Captain. I'd like at least half to be chosen by [electronic ballot](//github.com/TheFuturistParty/vote).
 
-1. [Will](//twitter.com/wholcomb)
+1. [Will](//twitter.com/wholcomb) ― Ratatoskr
 2. ¿[Kesha](//twitter.com/KeshaRose)?
 3. ¿[Elon](//twitter.com/elonmusk)?
 4.  
