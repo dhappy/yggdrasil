@@ -185,13 +185,13 @@
       <g idx="8"><text y="20">ᛁ</text></g>
       <g idx="9"><text y="20">ᛊ</text></g>
       <g idx="A" transform="translate(-30,-30)">
-        <image width="60" height="60" xlink:href=".../image/animal/dragon/pair/svg" />
+        <image width="60" height="60" xlink:href="animal/dragon/pair/svg.svg" />
       </g>
       <g idx="B" transform="translate(-28,-25)">
-        <image width="56" height="56" xlink:href=".../image/animal/squirrel/svg" />
+        <image width="56" height="56" xlink:href="animal/squirrel/svg.svg" />
       </g>
       <g idx="C" transform="translate(-28,-23.5)">
-        <image width="56" height="56" xlink:href=".../image/animal/phoenix/svg" />
+        <image width="56" height="56" xlink:href="animal/phoenix/svg.svg" />
       </g>
     </g>
   </g>
