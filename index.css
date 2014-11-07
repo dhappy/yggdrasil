@@ -1,19 +1,26 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
 #github {
-    display: inline-block;
-    float: right;
-    
-    margin-right: 15%;
+    display: block;
+
+    position: absolute;
+    top: 2em;
+    right: 15%;
 
     background-repeat: no-repeat;
     background-position: center;
     background-image: url('image/logo/github/svg.svg');
     background-size: 90% 90%;
 
-    height: 3em;
-    width: 3em;
+    height: 5em;
+    width: 5em;
 
     border: 5px solid;
-    border-radius: 1.75em;
+    border-radius: 2.75em;
 }
 
 #github:hover {
@@ -21,4 +28,11 @@
     border-color: darkorange;
 
     background-color: #D9E0D9;
+}
+
+object {
+    display: block;
+    
+    width: 100%;
+    height: 100%;
 }
