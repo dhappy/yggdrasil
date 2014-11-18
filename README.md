@@ -40,8 +40,8 @@ Teams dynamics is still very conceptual. Each team having a Captain would produc
 1. [Will](//dhappy.org) ― Ratatoskr
 2. [Kesha](//twitter.com/KeshaRose)
 3. [Elon](//twitter.com/ElonMusk)
-4–6. XXs
-7–C. Extant
+4. –6. XXs
+7. –C. *Extant*
 
 ## Subgames
 
