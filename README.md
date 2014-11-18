@@ -12,6 +12,12 @@ Yggdrasil is a concept for an augmented reality game, intially to be set at [Bur
 
 ## Teams
 
+### Extant
+
+Six collaborative deferring, one competitive oblivious.
+
+### Migration
+
 The teams are named after aspects of Norse cosmology:
 
 * ᛗ ― Miðgarðr: Humans
@@ -31,10 +37,11 @@ The teams are named after aspects of Norse cosmology:
 
 Teams dynamics is still very conceptual. Each team having a Captain would produce potentially useful singly-rooted trees. I'd like at least half the Captains chosen by [electronic ballot](//github.com/TheFuturistParty/vote).
 
-1. [Will](//twitter.com/WHolcomb) ― Ratatoskr
-2. ¿[Kesha](//twitter.com/KeshaRose)?
-3. ¿[Elon](//twitter.com/ElonMusk)?
-4.  
+1. [Will](//dhappy.org) ― Ratatoskr
+2. [Kesha](//twitter.com/KeshaRose)
+3. [Elon](//twitter.com/ElonMusk)
+4–6. XXs
+7–C. Extant
 
 ## Subgames
 
