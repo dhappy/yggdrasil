@@ -35,13 +35,20 @@ The teams are named after aspects of Norse cosmology:
 
 ## Captains
 
-Teams dynamics is still very conceptual. Each team having a Captain would produce potentially useful singly-rooted trees. I'd like at least half the Captains chosen by [electronic ballot](//github.com/TheFuturistParty/vote).
+Teams dynamics are still very conceptual. Each team has a Captain which roots a tree that controls identity assignments.
 
-1. [Will](//dhappy.org) ― Ratatoskr
-2. [Kesha](//twitter.com/KeshaRose)
-3. [Elon](//twitter.com/ElonMusk)
-4. –6. XXs
-7. –C. *Extant*
+1. Miðgarðr: Humans ― [Carlos Slim](http://en.wikipedia.org/wiki/Carlos_Slim)
+2. Ásgarðr: Heroes ― [Elon Musk](http://www.teslamotors.com)
+3. Vanaheimr: Sages ― [Dalai Lama](http://dalailama.com)
+4. Jötunheimr: Giants ― [Oprah Winfrey](http://oprah.com)
+5. Álfheimr: Elves ― [Kesha Rose](http://keshasparty.com)
+6. Hel: Corpses ― [Barack Obama](http://barackobama.com)
+7. Svartálfaheimr: Dwarves ― [Kevin Kabat](https://www.53.com/about/in-the-news/executive-bios.html)
+8. Niflheimr: Ice ― China
+9. Múspellsheimr: Fire ― [Jean-Claude Juncker](http://en.wikipedia.org/wiki/President_of_the_European_Commission)
+A. Níðhöggr: Dragon ― Black Panthers
+B. Ratatoskr: Squirrel ― [Δγς](http://dhappy.org)
+C. Veðrfölnir: Hawk ― [*Community-chosen*](https://github.com/TheFuturistParty/vote)
 
 ## Subgames
 
