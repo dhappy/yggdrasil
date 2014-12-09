@@ -46,8 +46,11 @@ Teams dynamics are still very conceptual. Each team has a Captain which roots a 
 7. Svartálfaheimr: Dwarves ― [Kevin Kabat](https://www.53.com/about/in-the-news/executive-bios.html)
 8. Niflheimr: Ice ― China
 9. Múspellsheimr: Fire ― [Jean-Claude Juncker](http://en.wikipedia.org/wiki/President_of_the_European_Commission)
+
 A. Níðhöggr: Dragon ― Black Panthers
+
 B. Ratatoskr: Squirrel ― [Δγς](http://dhappy.org)
+
 C. Veðrfölnir: Hawk ― [*Community-chosen*](https://github.com/TheFuturistParty/vote)
 
 ## Subgames
