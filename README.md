@@ -51,7 +51,7 @@ A. Níðhöggr: Dragon ― Black Panthers
 
 B. Ratatoskr: Squirrel ― [Δγς](http://dhappy.org)
 
-C. Veðrfölnir: Hawk ― [*Community-chosen*](https://github.com/TheFuturistParty/vote)
+C. Veðrfölnir: Hawk ― [*Democratic*](https://github.com/TheFuturistParty/vote)
 
 ## Subgames
 
