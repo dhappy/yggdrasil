@@ -6,7 +6,7 @@ Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game,
 * Thirteen factions where a player can have multiple pseudo-identities within each
 * Players control which of their aliases and contacts are accessible to others
 * Points are bitcoin
-* At the end of a round, the points are pooled, divided into 14 parts, and everyone gets one with an additional for the leader
+* At the end of a round, the points are pooled, divided into 14 (potentially proportional) parts, and everyone gets one with an additional for the leader
 * [Black Rock City](http://alexlod.com/wp-content/uploads/2011/09/brc.jpeg) is overlaid with [a map designating differential authority](http://dhappy.github.io/yggdrasil/)
 * Modeling of the activities and participants to [optimize for satisfaction](http://hoenir.himinbi.org/2014/04/rationale-for-the-department-of-happiness/)
 
