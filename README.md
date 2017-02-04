@@ -14,7 +14,7 @@ Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game,
 
 1. No use of force
 2. No stealing
-3. Don't tell Robert
+3. Don't tell Robert anything
 
 ## Teams
 
@@ -63,3 +63,10 @@ D. Yggdrassil: Trees ― [*Democratic*](https://github.com/TheFuturistParty/vote
 * Infiltration
 * Wagers
 * Bargaining
+* [Signs](https://en.wikipedia.org/wiki/Walter_Berg_(astrologer)#13-sign_astrology)
+
+## Synthesis
+
+The thirteen teams are broken into two groups of five and a set of three under the "generalships" of red, blue, and purple.
+
+Those organizations have a genetic base membership of red: X\*, blue: XY, & purple: U - (X\* + XY)
