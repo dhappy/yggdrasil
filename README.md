@@ -8,6 +8,7 @@ Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game,
   * Blue: XY
   * Purple: Anything else
 * [Thirteen factions](https://docs.google.com/spreadsheets/d/1fnYEKILyb9uAjrIDOoHZm_36Kkn3AvyphXReDg-Fbk8/edit?usp=sharing) where a player can have multiple pseudo-identities within each
+* A rotating "house" corresonding to the solar calendar
 * Players control which of their aliases and contacts are accessible to others
 * Points are bitcoin
 * At the end of a round, the points are pooled, divided into 14 (potentially proportional) parts, and everyone gets one with an additional for the leader
@@ -52,7 +53,7 @@ Teams dynamics are still very conceptual. Each team has a Captain which roots a 
 8. Niflheimr: Ice
 9. Múspellsheimr: Fire
 
-A. Níðhöggr: Dragons ― Black Panthers
+A. Níðhöggr: Dragons ― Princess
 
 B. Ratatoskr: Squirrels ― [Δγς](http://dhappy.org)
 
