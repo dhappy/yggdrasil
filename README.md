@@ -3,7 +3,11 @@ Yggdrasil
 
 Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game, intially to be set at [Burning Man](http://burningman.com). It is very much a work in progress, but some of the current concepts are:
 
-* Thirteen factions where a player can have multiple pseudo-identities within each
+* Three teams with a genetic default membership:
+  * Red: X*
+  * Blue: XY
+  * Purple: Anything else
+* [Thirteen factions](https://docs.google.com/spreadsheets/d/1fnYEKILyb9uAjrIDOoHZm_36Kkn3AvyphXReDg-Fbk8/edit?usp=sharing) where a player can have multiple pseudo-identities within each
 * Players control which of their aliases and contacts are accessible to others
 * Points are bitcoin
 * At the end of a round, the points are pooled, divided into 14 (potentially proportional) parts, and everyone gets one with an additional for the leader
