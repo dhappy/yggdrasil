@@ -15,12 +15,6 @@ Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game,
 * [Black Rock City](http://alexlod.com/wp-content/uploads/2011/09/brc.jpeg) is overlaid with [a map designating differential authority](http://dhappy.github.io/yggdrasil/)
 * Modeling of the activities and participants to [optimize for satisfaction](http://hoenir.himinbi.org/2014/04/rationale-for-the-department-of-happiness/)
 
-## Rules
-
-1. No use of force
-2. No stealing
-3. Don't tell Robert anything
-
 ## Teams
 
 The teams are named after aspects of Norse cosmology:
@@ -34,41 +28,38 @@ The teams are named after aspects of Norse cosmology:
 * ᛠ ― Svartálfaheimr: Dwarves
 * ᛁ ― Niflheimr: Ice
 * ᛊ ― Múspellsheimr: Fire
-* <img src='http://dhappy.org/.../image/animal/dragon/pair/svg' style='width:20px;height:20px'/> ― Níðhöggr: Dragon who gnaws at Yggdrasil
-* <img src='http://dhappy.org/.../image/animal/squirrel/svg' style='height:20px'/> ― Ratatoskr: Squirrel who lives in Yggdrasil
-* <img src='http://dhappy.org/.../image/animal/phoenix/svg' style='height:20px'/> ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
-* Yggdrasil: The tree itself
+* 🐲 ― Níðhöggr: Dragon who gnaws at Yggdrasil
+* 🐿️ ― Ratatoskr: Squirrel who lives in Yggdrasil
+* 🦅 ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
+* 🌳 ― Yggdrasil: The tree itself
 
-## Captains
+## Months
 
-Teams dynamics are still very conceptual. Each team has a Captain which roots a tree that controls identity assignments.
+Months are demarked by the constelations opposite the sun in the plane of the elliptic according to the 13 sign zodiac:
 
-1. Miðgarðr: Humans
-2. Ásgarðr: Heroes
-3. Vanaheimr: Sages ― [Dalai Lama](http://dalailama.com)
-4. Jötunheimr: Giants ― [Oprah Winfrey](http://oprah.com)
-5. Álfheimr: Elves ― [Kesha Rose](http://keshasparty.com)
-6. Hel: Corpses ― [Donald Trump](http://trump.com)
-7. Svartálfaheimr: Dwarves ― [Elon Musk](http://www.teslamotors.com)
-8. Niflheimr: Ice
-9. Múspellsheimr: Fire
+* ♑ ― Capricorn: 1/21–2/16
+* ♒ ― Aquarius: 2/16–3/11
+* ♓ ― Pisces: 3/11–4/18
+* ♈ ― Aries: 4/18–5/13
+* ♉ ― Taurus: 5/13–6/21
+* ♊ ― Gemini: 6/21–7/20
+* ♋ ― Cancer: 7/20–8/10
+* ♌ ― Leo: 8/10–9/16
+* ♍ ― Virgo: 9/16–10/30
+* ♎ ― Libra: 10/30–11/23
+* ♏ ― Scorpio: 11/23–11/29
+* ⛎ ― Ophiuchus: 11/29–12/27
+* ♐ ― Sagittarius: 10/30–11/23
 
-A. Níðhöggr: Dragons ― Princess
+## Events
 
-B. Ratatoskr: Squirrels ― [Δγς](http://dhappy.org)
-
-C. Veðrfölnir: Hawks
-
-D. Yggdrassil: Trees ― [*Democratic*](https://github.com/TheFuturistParty/vote)
-
-
+The game is centrally a process for interconnecting a series of events grounded on the cusps between months and transitions of decision-making power.
 
 ## Subgames
 
 * Infiltration
 * Wagers
 * Bargaining
-* [Signs](https://en.wikipedia.org/wiki/Walter_Berg_(astrologer)#13-sign_astrology)
 
 ## Synthesis
 
