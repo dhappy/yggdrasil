@@ -1,7 +1,7 @@
 Yggdrasil
 =========
 
-Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game, intially to be set at [Burning Man](http://burningman.com). It is very much a work in progress, but some of the current concepts are:
+Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game. It is very much a work in progress, but some of the current concepts are:
 
 * Three teams with a genetic default membership:
   * Red: X*
