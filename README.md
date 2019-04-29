@@ -1,18 +1,18 @@
 Yggdrasil
 =========
 
-Yggdrasil (pronounced "Yidd-ra-sil") is a concept for an augmented reality game. It is very much a work in progress, but some of the current concepts are:
-
-* Three teams with a genetic default membership:
-  * Red: X*
-  * Blue: XY
-  * Purple: Anything else
-* [Thirteen factions](https://docs.google.com/spreadsheets/d/1fnYEKILyb9uAjrIDOoHZm_36Kkn3AvyphXReDg-Fbk8/edit?usp=sharing) where a player can have multiple pseudo-identities within each
-* A rotating "house" corresonding to the solar calendar
-* Players control which of their aliases and contacts are accessible to others
-* Modeling of the activities and participants to [optimize for satisfaction](http://hoenir.himinbi.org/2014/04/rationale-for-the-department-of-happiness/)
+Yggdrasil (pronounced "Yadd-ra-sil") is a concept for an augmented reality game. It is very much a work in progress, but some of the current concepts are:
 
 ## Teams
+
+Ten teams plus three alliances make up the thirteen players.
+
+The alliances are:
+* Red: ᛃ, , 
+* Blue: ᛏ, ᚦ, ,
+* Purple: 🐿️, 🌳, ,
+
+## Runes
 
 The teams are named after aspects of Norse cosmology:
 
@@ -28,12 +28,13 @@ The teams are named after aspects of Norse cosmology:
 * 🐲 ― Níðhöggr: Dragon who gnaws at Yggdrasil
 * 🐿️ ― Ratatoskr: Squirrel who lives in Yggdrasil
 * 🦅 ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
-* 🌳 ― Yggdrasil: The tree itself
+* 🌳 ― Yggdrasil (pronounced "Ig-drah-səl"): The tree itself
 
 ## Months
 
-Months are demarked by the constelations opposite the sun in the plane of the elliptic according to the 13 sign zodiac:
+Months are demarked by the constelations opposite the sun in the plane of the elliptic according to the 13 sign zodiac. Note that the lengths are [wildly different](https://gist.run/embed.html?id=e29f776b9a9b0c3d52251a28c573977c).
 
+* ♐ ― Sagittarius: 10/30–11/23
 * ♑ ― Capricorn: 1/21–2/16
 * ♒ ― Aquarius: 2/16–3/11
 * ♓ ― Pisces: 3/11–4/18
@@ -46,24 +47,31 @@ Months are demarked by the constelations opposite the sun in the plane of the el
 * ♎ ― Libra: 10/30–11/23
 * ♏ ― Scorpio: 11/23–11/29
 * ⛎ ― Ophiuchus: 11/29–12/27
-* ♐ ― Sagittarius: 10/30–11/23
+
+## Cusps
+
+Events occur in the cusps between months. Each month beginning with -1/♉/38 a combination of two teams holds an event where team leads are able to meet as part of an agile sprint.
+
+* ♐ ― 
+* ♑ ― 
+* ♒ ― 
+* ♓ ― 
+* ♈ ― 
+* ♉ ― 🐿️
+* ♊ ― 
+* ♋ ― 
+* ♌ ― ᛃ
+* ♍ ― 
+* ♎ ― 
+* ♏ ― 
+* ⛎ ― 
 
 ## Events
 
-The game is centrally a process for interconnecting a series of events grounded on the cusps between months and transitions of decision-making power.
-
-## Potential Events
-
-One option is to run for political office. The main epoch for these events would be the innaguration of the next President on 2021/01/20 = 0/♑/0.
+* 2021/01/20 = 0/♑/0 — Innaguration of a candidate using a variety of assistive technologies to transform the office.
 
 ## Subgames
 
 * Infiltration
 * Wagers
 * Bargaining
-
-## Synthesis
-
-The thirteen teams are broken into two groups of five and a set of three under the "generalships" of red, blue, and purple.
-
-Those organizations have a genetic base membership of red: X\*, blue: XY, & purple: U - (X\* + XY)
