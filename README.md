@@ -116,6 +116,16 @@ The rankings for allowing month allocation are based on GDP + median wage * # of
 
 ## Software
 
+## Identities
+
+All teams have some system of identification. Each is different:
+
+* You buy ids
+* Existing members have k ids per month to give out
+* Only "admins" can distribute ids
+* Ids are randomly generated
+* Ids are verified via voter registration address
+* Ids are first-come-first-serve in a flat namespace
 
 
 ## Subgames
