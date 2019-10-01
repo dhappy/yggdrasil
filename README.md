@@ -126,6 +126,7 @@ All teams have some system of identification. Each is different:
 * Ids are randomly generated
 * Ids are verified via voter registration address
 * Ids are first-come-first-serve in a flat namespace
+* Ids are gleaned from limited-use QR codes
 
 
 ## Subgames
