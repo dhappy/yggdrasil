@@ -21,14 +21,6 @@ The teams are named after aspects of Norse cosmology:
 * 🦅 ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
 * 🌳 ― Yggdrasil (pronounced "Ig-drah-səl"): The tree itself
 
-## Teams
-
-Ten teams plus three alliances make up the thirteen players.
-
-The alliances are:
-* Red (🦅): ᛃ, & 
-* Blue (🐲): ᛏ, ᚦ & 
-* Purple (🐿️): 🌳, & 
 
 ## Months
 
