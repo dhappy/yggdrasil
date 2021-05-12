@@ -18,8 +18,8 @@ The teams are named after aspects of Norse cosmology:
 * ᛊ ― Múspellsheimr: Fire
 * 🐲 ― Níðhöggr: Dragon who gnaws at Yggdrasil
 * 🐿️ ― Ratatoskr: Squirrel who lives in Yggdrasil
+* 🦌 ― Dáinn, Dvalinn, Duneyrr and Duraþrór: Stags that nibble at Yggdrasil
 * 🦅 ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
-* 🌳 ― Yggdrasil (pronounced "Ig-drah-səl"): The tree itself
 
 
 ## Months
