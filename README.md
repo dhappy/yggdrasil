@@ -18,17 +18,9 @@ The teams are named after aspects of Norse cosmology:
 * ᛊ ― Múspellsheimr: Fire
 * 🐲 ― Níðhöggr: Dragon who gnaws at Yggdrasil
 * 🐿️ ― Ratatoskr: Squirrel who lives in Yggdrasil
+* 🦌 ― Dáinn, Dvalinn, Duneyrr and Duraþrór: Stags that nibble at Yggdrasil
 * 🦅 ― Veðrfölnir: Hawk sitting on an eagle perched on Yggdrasil
-* 🌳 ― Yggdrasil (pronounced "Ig-drah-səl"): The tree itself
 
-## Teams
-
-Ten teams plus three alliances make up the thirteen players.
-
-The alliances are:
-* Red (🦅): ᛃ, & 
-* Blue (🐲): ᛏ, ᚦ & 
-* Purple (🐿️): 🌳, & 
 
 ## Months
 
@@ -116,6 +108,17 @@ The rankings for allowing month allocation are based on GDP + median wage * # of
 
 ## Software
 
+## Identities
+
+All teams have some system of identification. Each is different:
+
+* You buy ids
+* Existing members have k ids per month to give out
+* Only "admins" can distribute ids
+* Ids are randomly generated
+* Ids are verified via voter registration address
+* Ids are first-come-first-serve in a flat namespace
+* Ids are gleaned from limited-use QR codes
 
 
 ## Subgames
